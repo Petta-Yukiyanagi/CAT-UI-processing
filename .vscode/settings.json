@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.outputPath": "out",
+  "java.project.referencedLibraries": [
+    "C:/Program Files/processing-4.3.4/core/library/core.jar"
+  ]
+}

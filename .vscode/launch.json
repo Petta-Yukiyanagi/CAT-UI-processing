@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run CATUIApp (classpath)",
+      "request": "launch",
+      "mainClass": "com.petta.catui.ui.CATUIApp",
+      "classPaths": [
+        "${workspaceFolder}/out",
+        "C:/Program Files/processing-4.3.4/core/library/core.jar"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
